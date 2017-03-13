@@ -4,7 +4,7 @@ A lightweight es6 PubSub class.
 ## Usage
 `import {PubSub} from './PubSub'; // Import the PubSub class`
 
-`const MyPubSub = new PubSub(); // Create a PubSub instance`
+`const PS = new PubSub(); // Create a PubSub instance`
 
 `PS.on('event', callback); // Create a new event with a custom callback`
 
